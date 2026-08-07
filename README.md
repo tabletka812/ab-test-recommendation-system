@@ -4,7 +4,7 @@
 
 **Главный вывод:** система не достигла заявленной цели по росту среднего чека (+2.62% при пороге 3%), но дала +16.5% выручки на пользователя за счёт сильного роста конверсии. Рекомендация: внедрять, с пересмотром главной метрики для будущих тестов.
 
-[Ноутбук с анализом]([notebooks/ab_test_analysis.ipynb](https://github.com/tabletka812/ab-test-recommendation-system/blob/main/notebooks/sample.ipynb)) · [Презентация](reports/presentation.pdf)
+[Ноутбук с анализом]([notebooks/ab_test_analysis.ipynb](https://github.com/tabletka812/ab-test-recommendation-system/blob/main/notebooks/sample.ipynb)) · [Презентация]([reports/presentation.pdf](https://github.com/tabletka812/ab-test-recommendation-system/blob/main/reports/Презентация.pdf))
 
 ---
 
